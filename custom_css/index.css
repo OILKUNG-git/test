@@ -1,0 +1,35 @@
+header {
+    padding-top: 30px;
+  height: 100px;
+}
+.navbar-toggler{
+    color: white;
+}
+.navbar {
+  padding: 15px;
+  background-color: rgb(47, 45, 184);
+}
+/*.nav-item a {
+  text-decoration: none;
+  padding: 1rem;
+  background-color: rgb(47, 45, 184);
+  color: white;
+  cursor: pointer;
+}
+.nav-item a:hover {
+  background-color: rgb(77, 74, 221);
+}*/
+
+.icon a {
+  padding: 1rem;
+  color: white;
+  text-decoration: none;
+}
+footer{
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+}
+article{
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
